@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eihabooo1
 - 👀 I’m interested in Supply Chain Management especially in inventory management
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on providing a high level of customer services through innovation.
+- 💞️ I’m looking to collaborate on providing a high level of customer services through innovation
 - 📫 How to reach me : https://www.linkedin.com/in/eihab-hamed-62a5b4139/
 
 <!---
